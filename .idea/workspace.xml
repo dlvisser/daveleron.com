@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9bce8b70-4cef-4be3-ae04-90b6990428cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/silicons.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/counters-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/intro-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio-details-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio-details-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio-details-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/post-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/post-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/post-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/testimonial-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/testimonial-4.jpg" beforeDir="false" />
+    <list default="true" id="855ddf7c-c509-47f0-863f-666ca0651bd8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/img/Cachemaps.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/Jobber.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/King Avanius.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/Philips-You.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/intro-bg - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/work-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/work-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/work-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/work-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/work-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/work-6.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,40 +21,63 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1otfDRl5qPVudgvkUSWXTTxo0sC" />
+  <component name="ProjectId" id="1oLY5IhtZEGp7odnwvK3M3O5DVV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Development\WEB\daveleron.com\assets\img" />
+      <recent name="C:\Users\Dave-\SynologyDrive\Documents\Programming\Website\daveleron.com\assets\img" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9bce8b70-4cef-4be3-ae04-90b6990428cf" name="Default Changelist" comment="" />
-      <created>1614110687911</created>
+      <changelist id="855ddf7c-c509-47f0-863f-666ca0651bd8" name="Default Changelist" comment="" />
+      <created>1613067157350</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1614110687911</updated>
-      <workItem from="1614110689277" duration="3342000" />
+      <updated>1613067157350</updated>
+      <workItem from="1613067159312" duration="6251000" />
+      <workItem from="1613467958434" duration="2417000" />
+      <workItem from="1614181352546" duration="4181000" />
+      <workItem from="1614246259667" duration="287000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
